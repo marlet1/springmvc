@@ -25,7 +25,7 @@ public class MappingController {
         return "ok";
     }
     /**
-     * 편리한 축약 애노테이션
+     * 편리한 축약 애노테이션 (코드보기)
      * @GetMapping
      * @PostMapping
      * @PutMapping
